@@ -10,8 +10,6 @@ serverless deploy --stage dev --region us-east-1
 
 1. Create Record - Post
 
-  https://tm3omkqamc.execute-api.us-east-1.amazonaws.com/dev/items
-
   {
 	"title":"title",
 	"description":"Description"
